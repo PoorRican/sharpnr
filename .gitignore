@@ -5,3 +5,6 @@ __pycache__
 
 # vim cache files
 *.sw[a-z]
+
+# application database
+snippets.yaml
